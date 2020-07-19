@@ -16,69 +16,50 @@
         <li><a href="ReleaseNote.html#googleDrive">Google Drive</a></li>
         <li><a href="ReleaseNote.html#PostingRules">Posting Rules</a></li>
         <li><a href="ReleaseNote.html#CBalances">CBalances</a></li>
-        <li><a href="ReleaseNote.html#additional">CB Reports</a></li>
-        <li><a href="ReleaseNote.html#additional">Report Configurator</a></li>
-        <li><a href="ReleaseNote.html#additional">FF Integration</a></li>
-        <li><a href="ReleaseNote.html#additional">Other</a></li>
+        <li><a href="ReleaseNote.html#CBReports">CB Reports</a></li>
+        <li><a href="ReleaseNote.html#reportConfigurator">Report Configurator</a></li>
+        <li><a href="ReleaseNote.html#FFIntegration">FF Integration</a></li>
+        <li><a href="ReleaseNote.html#other">Other</a></li>
     </ul>
     <p>You can find additional information for each item below.</p>
+
+    <br/>
+    <hr/>
 
     <br/>
     <h3 id='budgetApp'>Budget App</h3>
     <ul>
         <li>Autocomplete panel allows to enter a value more conveniently</li>
         <li>Excel import recognizes cell formulas</li>
+        <li>Advanced capabilities of Calculation rules</li>
         <li>Currency component allows to work with Budget App using the user's currency</li>
         <li>Budget App has both modes: Employee/Rate & Price/Quantity</li>
     </ul>
+    <br/>
+    <img src="images/NRS2020BA.png" alt="Budget App Autofill" class="inline"/>
+    <br/><br/>
+
 
     <h3 id='budgetAppSheet'>Budget App Sheet</h3>
     <ul>
-        <li>Autocomplete panel allows to enter a value more conveniently</li>
-        <li>Excel import recognizes cell formulas</li>
+        <li>Grouping by Accounts, SubAccounts, client analytics with and without Budget Apps</li>
+        <li>New Excel export format (each Budget App on its own sheet)</li>
         <li>Currency component allows to work with Budget App using the user's currency</li>
         <li>Budget App has both modes: Employee/Rate & Price/Quantity</li>
     </ul>
-
-
-    <p>The main application can have several child applications,
-        each of which can have its own child items, etc.
-        The structure is presented in a convenient form on the table (see screen).
-        Table filters allow you to see only a list of required applications.</p>
-    <img src="images/BA1.PNG" alt="App Structure" class="inline"/>
-
     <br/>
-    <h3 id='appView'>App view</h3>
-    <p>Typically, an app consists of one section (inc or exp),
-        but you can also use them simultaneously</p>
-    <img src="images/BA2.png" alt="App View" class="inline"/>
+    <br/><br/>
 
-    <br/>
-    <h3 id='topDown'>Top-down approach</h3>
-
-    <br/>
-    <h3>Bottom-up approach</h3>
-
-    <br/>
-    <h3 id='sharing'>Sharing rules</h3>
-
-    <br/>
-    <h3 id='excel'>Excel export/import</h3>
-    <p>App allows you to upload data to an Excel file.
-        Data in excel file can be changed. You can add or remove lines.
-        It is important to keep the file format, otherwise the file cannot be imported back</p>
-    <img src="images/BA3.png" alt="Export to Excel" class="inline"/>
-    <p>After the data is downloaded back, you will receive a message about the successful download
-        or import errors</p>
-    <img src="images/BA4.png" alt="Import from Excel" class="inline"/>
-
-    <br/>
-    <h3 id='additional'>Additional Features</h3>
+    <h3 id='googleDrive'>Google Drive</h3>
     <ul>
-        <li>An App cannot be "Posted" until all its subsidiary apps are not "Posted"</li>
-        <li>Clone</li>
-        <li>Interface Permissions</li>
+        <li>Grouping by Accounts, SubAccounts, client analytics with and without Budget Apps</li>
+        <li>New Excel export format (each Budget App on its own sheet)</li>
+        <li>Currency component allows to work with Budget App using the user's currency</li>
+        <li>Budget App has both modes: Employee/Rate & Price/Quantity</li>
     </ul>
+    <br/>
+    <br/><br/>
+
 
 </div>
 <br/>
@@ -89,7 +70,6 @@
 <div>
     Navigate to:
     <p><a href="https://cloudbudgetinc.github.io/Docs/CBCore">CB Base Documentation</a></p>
-    <p><a href="https://cloudbudgetinc.github.io/Docs/BudgetTemplate">Budget App Template</a></p>
 </div>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
