@@ -8,7 +8,7 @@
 
 <h1 id='pageTop'>Budget App</h1>
 <div>
-    <p>Budget App is a tool for planning your company budget.</p>
+    <p>Budget App is a tool for planning your Company budget.</p>
 
     <ul>
         <li><a href="BudgetApp.html#structure">Apps are made in tree structure. Each parent application contains amounts
