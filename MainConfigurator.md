@@ -7,22 +7,22 @@
 <div>
     <h1>Main Configurator</h1>
     <p>
-        <a href="https://fallentol.github.io/CloudBudget/CB2/Context">Context</a>
+        <a href="https://cloudbudgetinc.github.io/Docs/Context">Context</a>
     </p>
     <p>
-        <a href="https://fallentol.github.io/CloudBudget/CB2/InstanceSettings">Instance Settings</a>
+        <a href="https://cloudbudgetinc.github.io/Docs/InstanceSettings">Instance Settings</a>
     </p>
     <p>
-        <a href="https://fallentol.github.io/CloudBudget/CB2/UserSettings">User Settings</a>
+        <a href="https://cloudbudgetinc.github.io/Docs/UserSettings">User Settings</a>
     </p>
     <p>
-        <a href="https://fallentol.github.io/CloudBudget/CB2/InterfacePermissions">Interface Permissions</a>
+        <a href="https://cloudbudgetinc.github.io/Docs/InterfacePermissions">Interface Permissions</a>
     </p>
     <p>
-       <a href="https://fallentol.github.io/CloudBudget/CB2/Dimension">CB Dimensions</a>
+       <a href="https://cloudbudgetinc.github.io/Docs/CB2/Dimension">CB Dimensions</a>
     </p>
     <p>
-        <a href="https://fallentol.github.io/CloudBudget/CB2/InterfaceSettingsInstruction">Interface Settings Instruction</a>
+        <a href="https://cloudbudgetinc.github.io/Docs/InterfaceSettingsInstruction">Interface Settings Instruction</a>
     </p>
 </div>
 
@@ -30,7 +30,7 @@
 <hr/>
 <div>
     Navigate to:
-    <p><p><a href="https://fallentol.github.io/CloudBudget/CB2/index">Home Page</a></p></p>
+    <p><p><a href="https://cloudbudgetinc.github.io/Docs/index">Home Page</a></p></p>
 </div>
 
 </body>

@@ -8,7 +8,7 @@
 </div>
 <br/>
 
-<p><p><a href="https://fallentol.github.io/CloudBudget/ReportColumn">Columns</a></p></p>
+<p><p><a href="https://cloudbudgetinc.github.io/Docs/ReportColumn">Columns</a></p></p>
     
 </body>
 </html>

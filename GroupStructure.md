@@ -16,7 +16,7 @@
 <hr/>
 <div>
     Navigate to:
-    <p><p><a href="https://fallentol.github.io/CloudBudget/CB2/index">Home Page</a></p></p>
+    <p><p><a href="https://cloudbudgetinc.github.io/Docs/index">Home Page</a></p></p>
 </div>
 
 </body>

@@ -87,7 +87,7 @@
     Save</span></td>
             <td><a href="http://prntscr.com/qxad1p" target="_parent"><span
                     style='color:blue'>http://prntscr.com/qxad1p</span></a></td>
-            <td><a href="https://fallentol.github.io/CloudBudget/CB2/Dimension"
+            <td><a href="https://cloudbudgetinc.github.io/Docs/Dimension"
                    target="_parent"><span
                     style='color:blue'>https://fallentol.github.io/CloudBudget/CB2/Dimension</span></a>
             </td>
@@ -118,13 +118,13 @@
                 ht<span style='display:none'>tp://prntscr.com/qxtbi3<br>
     http://prntscr.com/qxtc6t</span></td>
             <td><a
-                    href="https://fallentol.github.io/CloudBudget/CB2/COA#import" target="_parent"><span
+                    href="https://cloudbudgetinc.github.io/Docs/COA#import" target="_parent"><span
                     style='color:blue'>https://fallentol.github.io/CloudBudget/CB2/COA#import</span></a></td>
         </tr>
         <tr style='height:15.75pt'>
             <td style='height:15.75pt'>3</td>
             <td>Dimensions</td>
-            <td>Fill in a list of organization diensions/analytics</td>
+            <td>Fill in a list of organization dimensions/analytics</td>
             <td colspan=2 style='mso-ignore:colspan'></td>
         </tr>
         <tr style='height:31.5pt;mso-xlrowspan:2'>
@@ -191,8 +191,8 @@
 <hr/>
 <div>
     Navigate to:
-    <p><a href="https://fallentol.github.io/CloudBudget/CB2/CBCore">CB Base Documentation</a></p>
-    <p><a href="https://fallentol.github.io/CloudBudget/CB2/BudgetTemplate">Budget App Template</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Docs/CBCore">CB Base Documentation</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Docs/BudgetTemplate">Budget App Template</a></p>
 </div>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>

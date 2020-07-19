@@ -84,7 +84,7 @@
     <p>info@cloudbudget.com</p>
 
     <div>
-        <img width="100" src="https://fallentol.github.io/CloudBudget/CB2/images/forceLogo.png" alt="ForceLogo"/>
+        <img width="100" src="https://cloudbudgetinc.github.io/Docs/images/forceLogo.png" alt="ForceLogo"/>
     </div>
 </div>
 

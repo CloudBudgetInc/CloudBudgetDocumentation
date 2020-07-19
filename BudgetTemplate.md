@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-<p><p><a href="https://fallentol.github.io/CloudBudget/CB2/BudgetApp">Budget App</a></p></p>
+<p><p><a href="https://cloudbudgetinc.github.io/Docs/BudgetApp">Budget App</a></p></p>
  
 </body>
 </html>

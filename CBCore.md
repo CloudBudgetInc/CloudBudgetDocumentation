@@ -26,10 +26,10 @@
     <h3>Other</h3>
     <p>Logging Panel</p>
     <p>Email Controller</p>
-    <p><a href="https://fallentol.github.io/CloudBudget/CB2/FFIntegration">FF Integration</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Docs/FFIntegration">FF Integration</a></p>
     <p>Tag Index Setup</p> 
     <p>Scheduled Jobs</p>
-    <p><a href="https://fallentol.github.io/CloudBudget/CB2/Context">Context</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Docs/Context">Context</a></p>
     <p>Periods</p> 
 </div>
 

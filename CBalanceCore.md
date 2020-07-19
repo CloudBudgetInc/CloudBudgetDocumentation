@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-<p><p><a href="https://fallentol.github.io/CloudBudget/CB2/CBalanceConfigurator">
+<p><p><a href="https://cloudbudgetinc.github.io/Docs/CBalanceConfigurator">
     CBalance Configurator
 </a></p></p>
 

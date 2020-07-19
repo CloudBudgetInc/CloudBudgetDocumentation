@@ -16,7 +16,7 @@
 <hr/>
 <div>
     Navigate to:
-    <p><p><a href="https://fallentol.github.io/CloudBudget/CB2/MainConfigurator">Main Configurator</a></p></p>
+    <p><p><a href="https://cloudbudgetinc.github.io/Docs/MainConfigurator">Main Configurator</a></p></p>
 </div>
 
 </body>

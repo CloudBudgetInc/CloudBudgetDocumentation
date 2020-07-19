@@ -186,7 +186,7 @@
 <hr/>
 <div>
     Navigate to:
-    <p><a href="https://fallentol.github.io/CloudBudget/CB2/CBCore">CB Base Documentation</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Docs/CBCore">CB Base Documentation</a></p>
 </div>
 
  

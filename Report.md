@@ -9,8 +9,8 @@
 </div>
 <br/>
 
-<p><p><a href="https://fallentol.github.io/CloudBudget/CB2/ReportColumn">Columns</a></p></p>
-<p><p><a href="https://fallentol.github.io/CloudBudget/CB2/ReportConfigurator">Report Configurator</a></p></p>
+<p><p><a href="https://cloudbudgetinc.github.io/Docs/ReportColumn">Columns</a></p></p>
+<p><p><a href="https://cloudbudgetinc.github.io/Docs/ReportConfigurator">Report Configurator</a></p></p>
 
 
     

@@ -102,7 +102,7 @@ Each field has its own settings:<br/>
 <hr/>
 <div>
     Navigate to:
-   <p></p><p><a href="https://fallentol.github.io/CloudBudget/CB2/CBCore">Main Page</a></p><p></p>
+   <p></p><p><a href="https://cloudbudgetinc.github.io/Docs/CBCore">Main Page</a></p><p></p>
 </div>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>

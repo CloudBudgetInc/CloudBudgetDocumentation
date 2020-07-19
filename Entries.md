@@ -28,7 +28,7 @@
 <br/>
 <h3>List of Entries</h3>
 <p>The entries list contains transactions of the posted primary documents that. 
-The list can be filtered by year, department, dementine and other necessary analysts.</p>
+The list can be filtered by year, department, demention and other necessary analysts.</p>
 <img src="images/Entry1.png" alt="List of Entries" class="inline"/>
 
 <br/>
@@ -61,7 +61,7 @@ and a link to the source Primary Doc<p/>
 <hr/>
 <div>
     Navigate to:
-    <p><a href="https://fallentol.github.io/CloudBudget/CB2/CBCore">CB Base Documentation</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Docs/CBCore">CB Base Documentation</a></p>
 </div>
     
 </body>
