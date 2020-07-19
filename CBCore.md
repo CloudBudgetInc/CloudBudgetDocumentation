@@ -12,13 +12,13 @@
 
 <div class="panel">
     <h3>Installation and Setup</h3>
-    <p><a href="https://fallentol.github.io/CloudBudget/CB2/InitialSetup">Initial Setup</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Docs/InitialSetup">Initial Setup</a></p>
     <p>Init Wizard</p>
-    <p><a href="https://fallentol.github.io/CloudBudget/CB2/MainConfigurator">Main Configurator</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Docs/MainConfigurator">Main Configurator</a></p>
     <p>Sharing Rules</p>
-    <p><a href="https://fallentol.github.io/CloudBudget/CB2/ApprovingProcess">Approving Process</a></p>
-    <p><a href="https://fallentol.github.io/CloudBudget/CB2/InterfacePermissions">Interface Permissions</a></p>
-    <p><a href="https://fallentol.github.io/CloudBudget/CB2/COA">Chart of Accounts</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Docs/ApprovingProcess">Approving Process</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Docs/InterfacePermissions">Interface Permissions</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Docs/COA">Chart of Accounts</a></p>
     <p>Pages Redirection</p> 
 </div>
 
