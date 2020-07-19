@@ -1,0 +1,3 @@
+SELECT
+        cb4__DisplayGroup__c
+FROM cb4__CBReportColumn__c
