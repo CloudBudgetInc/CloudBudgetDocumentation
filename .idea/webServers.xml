@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="33862e17-2185-4774-8510-dfcdf4125686" name="https://github.com/CloudBudgetInc/CloudBudgetDocumentation" url="https://github.com/CloudBudgetInc/CloudBudgetDocumentation">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>
