@@ -1,25 +1,25 @@
 <div style="display: inline-block;">
-    <img width="180" src="https://fallentol.github.io/CloudBudget/CB2/images/CBigLogo.png" alt="CB2 Logo"/>
+    <img width="180" src="https://cloudbudgetinc.github.io/Docs/images/CBigLogo.png" alt="CB2 Logo"/>
 </div>
 <div style="display: inline-block;  position: relative; padding-left: 650px ">
-    <img width="100" src="https://fallentol.github.io/CloudBudget/CB2/images/SFLogo.png" alt="SF Logo"/>
+    <img width="100" src="https://cloudbudgetinc.github.io/Docs/images/SFLogo.png" alt="SF Logo"/>
 </div>
 
 <div>
     <div style="display: inline-block;">
-        <img width="220" src="https://fallentol.github.io/CloudBudget/CB2/images/ScreenMassMailHome.png"
+        <img width="220" src="https://cloudbudgetinc.github.io/Docs/images/ScreenMassMailHome.png"
              alt="CB Home Page"/>
     </div>
     <div style="display: inline-block;">
-        <img width="240" src="https://fallentol.github.io/CloudBudget/CB2/images/ScreenMassMailBA.png"
+        <img width="240" src="https://cloudbudgetinc.github.io/Docs/images/ScreenMassMailBA.png"
              alt="CB Budget App"/>
     </div>
     <div style="display: inline-block;">
-        <img width="220" src="https://fallentol.github.io/CloudBudget/CB2/images/ScreenMassMailImport.png"
+        <img width="220" src="https://cloudbudgetinc.github.io/Docs/images/ScreenMassMailImport.png"
              alt="CB Import"/>
     </div>
     <div style="display: inline-block;">
-        <img width="240" src="https://fallentol.github.io/CloudBudget/CB2/images/ScreenMassMailReport.png"
+        <img width="240" src="https://cloudbudgetinc.github.io/Docs/images/ScreenMassMailReport.png"
              alt="CB Report"/>
     </div>
 </div>
@@ -61,7 +61,7 @@
 
 <div style="text-align: center; margin: auto; background-color: #d8edff; border-radius: 5px; width: 250px; padding: 10px; box-shadow: 2px 2px 8px #777777;"
      title="Documentation">
-    <a href="https://fallentol.github.io/CloudBudget/CB2/CBCore"
+    <a href="https://cloudbudgetinc.github.io/Docs/CBCore"
        class="apexButton">Read</a>
 </div>
 
