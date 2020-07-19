@@ -6,28 +6,27 @@
     <title>CloudBudget2.0 Release Note</title>
 </head>
 
-<h1 id='pageTop'>Budget App</h1>
+<h1 id='pageTop'>CloudBudget2.0 Summer 2020 Release Note</h1>
 <div>
-    <p>Budget App is a tool for planning your company budget.</p>
+    <p>List of Summer 2020 additives</p>
 
     <ul>
-        <li><a href="ReleaseNote.html#budgetApplication">Apps are made in tree structure. Each parent application contains amounts
-            from a child</a></li>
-        <li><a href="ReleaseNote.html#appView">CloudBudget App allows you to plan income, expenses, or both at the same
-            time</a></li>
-        <li><a href="ReleaseNote.html#topDown">Both planning approaches can be applied - top-down or bottom-up</a></li>
-        <li><a href="ReleaseNote.html#sharing">Strict sharing rules allow the administrator to specify the list of Apps
-            available to a specific user</a></li>
-        <li><a href="ReleaseNote.html#sharing">Application data can be uploaded to an excel file and downloaded back after
-            refinement</a></li>
-        <li><a href="ReleaseNote.html#additional">Also App has a lot of additional features</a></li>
+        <li><a href="ReleaseNote.html#budgetApp">Budget Application</a></li>
+        <li><a href="ReleaseNote.html#budgetAppSheet">Budget App Sheet</a></li>
+        <li><a href="ReleaseNote.html#googleDrive">Google Drive</a></li>
+        <li><a href="ReleaseNote.html#PostingRules">Posting Rules</a></li>
+        <li><a href="ReleaseNote.html#CBalances">CBalances</a></li>
+        <li><a href="ReleaseNote.html#additional">CB Reports</a></li>
+        <li><a href="ReleaseNote.html#additional">Report Configurator</a></li>
+        <li><a href="ReleaseNote.html#additional"></a>FF Integration</li>
+        <li><a href="ReleaseNote.html#additional"></a>Other</li>
     </ul>
-
     <p>You can find additional information for each item below.</p>
 
 
     <br/>
-    <h3 id='budgetApplication'>Budget Application</h3>
+    <h3 id='budgetApp'>Budget Application</h3>
+     - Budget Application allows enter amounts into transaction lines much conveniently
 
     <p>The main application can have several child applications,
         each of which can have its own child items, etc.
