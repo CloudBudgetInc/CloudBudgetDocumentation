@@ -35,20 +35,17 @@
         <li>Currency component allows to work with Budget App using the user's currency</li>
         <li>Budget App has both modes: Employee/Rate & Price/Quantity</li>
     </ul>
-    <br/>
     <img src="images/NRS2020BA.png" alt="Budget App Autofill" class="inline"/>
-    <br/><br/>
+    <br/><br/><br/>
 
 
     <h3 id='budgetAppSheet'>Budget App Sheet</h3>
     <ul>
         <li>Grouping by Accounts, SubAccounts, client analytics with and without Budget Apps</li>
         <li>New Excel export format (each Budget App on its own sheet)</li>
-        <li>Currency component allows to work with Budget App using the user's currency</li>
-        <li>Budget App has both modes: Employee/Rate & Price/Quantity</li>
     </ul>
-    <br/>
-    <br/><br/>
+    <img src="images/NRS2020BA2.png" alt="Budget App Sheet" class="inline"/>
+    <br/><br/><br/>
 
     <h3 id='googleDrive'>Google Drive</h3>
     <ul>
