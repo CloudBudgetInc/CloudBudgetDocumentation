@@ -63,6 +63,8 @@
      title="Documentation">
     <a href="https://cloudbudgetinc.github.io/Docs/CBCore"
        class="apexButton">Read</a>
+    <a href="https://cloudbudgetinc.github.io/Docs/ReleaseNote"
+       class="apexButton">Release Note</a>
 </div>
 
 <br/>
