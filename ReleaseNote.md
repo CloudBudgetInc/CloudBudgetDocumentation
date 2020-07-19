@@ -18,15 +18,28 @@
         <li><a href="ReleaseNote.html#CBalances">CBalances</a></li>
         <li><a href="ReleaseNote.html#additional">CB Reports</a></li>
         <li><a href="ReleaseNote.html#additional">Report Configurator</a></li>
-        <li><a href="ReleaseNote.html#additional"></a>FF Integration</li>
-        <li><a href="ReleaseNote.html#additional"></a>Other</li>
+        <li><a href="ReleaseNote.html#additional">FF Integration</a></li>
+        <li><a href="ReleaseNote.html#additional">Other</a></li>
     </ul>
     <p>You can find additional information for each item below.</p>
 
-
     <br/>
-    <h3 id='budgetApp'>Budget Application</h3>
-     - Budget Application allows enter amounts into transaction lines much conveniently
+    <h3 id='budgetApp'>Budget App</h3>
+    <ul>
+        <li>Autocomplete panel allows to enter a value more conveniently</li>
+        <li>Excel import recognizes cell formulas</li>
+        <li>Currency component allows to work with Budget App using the user's currency</li>
+        <li>Budget App has both modes: Employee/Rate & Price/Quantity</li>
+    </ul>
+
+    <h3 id='budgetAppSheet'>Budget App Sheet</h3>
+    <ul>
+        <li>Autocomplete panel allows to enter a value more conveniently</li>
+        <li>Excel import recognizes cell formulas</li>
+        <li>Currency component allows to work with Budget App using the user's currency</li>
+        <li>Budget App has both modes: Employee/Rate & Price/Quantity</li>
+    </ul>
+
 
     <p>The main application can have several child applications,
         each of which can have its own child items, etc.
