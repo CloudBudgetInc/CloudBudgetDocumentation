@@ -82,7 +82,7 @@
         <li>Report values depend on the user's currency</li>
     </ul>
     <img src="images/NR2020Report1.png" alt="CB Reports" class="inline"/>
-    <img src="images/NR2020Report2.png" alt="CB Reports" class="inline"/>
+    <img src="images/RN2020Report2.png" alt="CB Reports" class="inline"/>
     <br/><br/><br/>
 
     <h3 id='reportConfigurator'>CB Report Configurator</h3>
