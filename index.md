@@ -67,8 +67,8 @@
 
 <div style="text-align: center; margin: auto; background-color: #d8edff; border-radius: 5px; width: 250px; padding: 10px; box-shadow: 2px 2px 8px #777777;"
      title="Documentation">
-    <a href="https://cloudbudgetinc.github.io/Documentation/ReleaseNote"
-       class="apexButton">Release Note</a>
+    <a href="https://cloudbudgetinc.github.io/Documentation/ReleaseNoteSummer2020"
+       class="apexButton">Release Note Summer 2020</a>
 </div>
 
 <br/>
