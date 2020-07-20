@@ -12,13 +12,13 @@
 
 <div class="panel">
     <h3>Installation and Setup</h3>
-    <p><a href="https://cloudbudgetinc.github.io/Docs/InitialSetup">Initial Setup</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Documentation/InitialSetup">Initial Setup</a></p>
     <p>Init Wizard</p>
-    <p><a href="https://cloudbudgetinc.github.io/Docs/MainConfigurator">Main Configurator</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Documentation/MainConfigurator">Main Configurator</a></p>
     <p>Sharing Rules</p>
-    <p><a href="https://cloudbudgetinc.github.io/Docs/ApprovingProcess">Approving Process</a></p>
-    <p><a href="https://cloudbudgetinc.github.io/Docs/InterfacePermissions">Interface Permissions</a></p>
-    <p><a href="https://cloudbudgetinc.github.io/Docs/COA">Chart of Accounts</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Documentation/ApprovingProcess">Approving Process</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Documentation/InterfacePermissions">Interface Permissions</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Documentation/COA">Chart of Accounts</a></p>
     <p>Pages Redirection</p> 
 </div>
 
@@ -26,10 +26,10 @@
     <h3>Other</h3>
     <p>Logging Panel</p>
     <p>Email Controller</p>
-    <p><a href="https://cloudbudgetinc.github.io/Docs/FFIntegration">FF Integration</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Documentation/FFIntegration">FF Integration</a></p>
     <p>Tag Index Setup</p> 
     <p>Scheduled Jobs</p>
-    <p><a href="https://cloudbudgetinc.github.io/Docs/Context">Context</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Documentation/Context">Context</a></p>
     <p>Periods</p> 
 </div>
 
