@@ -13,7 +13,7 @@
     <ul>
         <li><a href="ReleaseNote.html#budgetApp">Budget Application</a></li>
         <li><a href="ReleaseNote.html#budgetAppSheet">Budget App Sheet</a></li>
-        <li><a href="ReleaseNote.html#googleDrive">Google Drive</a></li>
+        <li><a href="ReleaseNote.html#googleDrive">Google Drive Integration</a></li>
         <li><a href="ReleaseNote.html#postingRules">Posting Rules</a></li>
         <li><a href="ReleaseNote.html#CBalances">CBalances</a></li>
         <li><a href="ReleaseNote.html#CBReports">CB Reports</a></li>
