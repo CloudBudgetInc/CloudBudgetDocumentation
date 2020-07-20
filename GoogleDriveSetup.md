@@ -8,8 +8,9 @@
 
 <h1 id='pageTop'>CloudBudget2.0 Google Drive Setup</h1>
 <div>
+    <br/>
     <p>To setup the Google Drive connection with CloudBudget do the following</p>
-    <br/><br/>
+    <hr/>
 
     1. Go to <a href="https://console.developers.google.com/"> Google Console</a><br/>
     2. Make sure you choose correct account http://prntscr.com/tjh9ys<br/>
