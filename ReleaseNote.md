@@ -49,10 +49,10 @@
 
     <h3 id='googleDrive'>Google Drive</h3>
     <ul>
-        <li>Grouping by Accounts, SubAccounts, client analytics with and without Budget Apps</li>
-        <li>New Excel export format (each Budget App on its own sheet)</li>
-        <li>Currency component allows to work with Budget App using the user's currency</li>
-        <li>Budget App has both modes: Employee/Rate & Price/Quantity</li>
+        <li>Connecting with Google Drive using Named Credentials</li>
+        <li>Export/import of Budgets to/from Google Drive without using Excel</li>
+        <li>Uploading, downloading and deleting files to/from connected Google Drive</li>
+        <li>Each user have ability to connect different Google Drive account</li>
     </ul>
     <br/><br/><br/>
 
@@ -69,9 +69,9 @@
     <ul>
         <li>Advanced capabilities for customizing fields</li>
         <li>Ability to run batches of selected CBalance Rules</li>
-        <li>Calculation Rules integrated</li>
-        <li>Hints, validations and miscellaneous tools to facilitate customization</li>
+        <li>Additional information about the number and created date of CBalances</li>
     </ul>
+    <img src="images/NRCBal1.png" alt="Budget App Sheet" class="inline"/>
     <br/><br/><br/>
 
     <h3 id='other'>Other</h3>
@@ -79,7 +79,7 @@
         <li>Org customization and transfer using an Excel file</li>
         <li>Ability to make the Primary Document fields required or disabled</li>
         <li>New Tag Set layout</li>
-        <li>Customizable Panel to run bundles of Batches to simplify the workflow and data update</li>
+        <li>Customizable Panel to run bundles of the batches to simplify the workflow and data update</li>
     </ul>
     <br/><br/><br/>
 
@@ -90,10 +90,10 @@
 
 <br/>
 <hr/>
-<div>
+<!--<div>
     Navigate to:
     <p><a href="https://cloudbudgetinc.github.io/Docs/CBCore">CB Base Documentation</a></p>
-</div>
+</div>-->
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
