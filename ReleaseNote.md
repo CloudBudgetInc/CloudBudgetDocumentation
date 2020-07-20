@@ -14,7 +14,7 @@
         <li><a href="ReleaseNote.html#budgetApp">Budget Application</a></li>
         <li><a href="ReleaseNote.html#budgetAppSheet">Budget App Sheet</a></li>
         <li><a href="ReleaseNote.html#googleDrive">Google Drive</a></li>
-        <li><a href="ReleaseNote.html#PostingRules">Posting Rules</a></li>
+        <li><a href="ReleaseNote.html#postingRules">Posting Rules</a></li>
         <li><a href="ReleaseNote.html#CBalances">CBalances</a></li>
         <li><a href="ReleaseNote.html#CBReports">CB Reports</a></li>
         <li><a href="ReleaseNote.html#reportConfigurator">Report Configurator</a></li>
@@ -54,8 +54,34 @@
         <li>Currency component allows to work with Budget App using the user's currency</li>
         <li>Budget App has both modes: Employee/Rate & Price/Quantity</li>
     </ul>
-    <br/>
-    <br/><br/>
+    <br/><br/><br/>
+
+    <h3 id='postingRules'>Posting Rules</h3>
+    <ul>
+        <li>Cash Flow mode with customizable delay</li>
+        <li>Ability to post/unpost selected rules</li>
+        <li>Calculation Rules integrated</li>
+        <li>Hints, validations and miscellaneous tools to facilitate customization</li>
+    </ul>
+    <br/><br/><br/>
+
+    <h3 id='CBalances'>CBalances</h3>
+    <ul>
+        <li>Advanced capabilities for customizing fields</li>
+        <li>Ability to run batches of selected CBalance Rules</li>
+        <li>Calculation Rules integrated</li>
+        <li>Hints, validations and miscellaneous tools to facilitate customization</li>
+    </ul>
+    <br/><br/><br/>
+
+    <h3 id='other'>Other</h3>
+    <ul>
+        <li>Org customization and transfer using an Excel file</li>
+        <li>Ability to make the Primary Document fields required or disabled</li>
+        <li>New Tag Set layout</li>
+        <li>Customizable Panel to run bundles of Batches to simplify the workflow and data update</li>
+    </ul>
+    <br/><br/><br/>
 
 
 </div>
