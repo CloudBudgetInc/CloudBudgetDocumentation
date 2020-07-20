@@ -8,7 +8,8 @@
 
 <h1 id='pageTop'>CloudBudget2.0 Google Drive Setup</h1>
 <div>
-    <p>List of Summer 2020 additives</p>
+    <p>To setup the Google Drive connection with CloudBudget do the following</p>
+    </br>
 
     1. Go to https://console.developers.google.com/
     2. make sure you choose correct account http://prntscr.com/tjh9ys
