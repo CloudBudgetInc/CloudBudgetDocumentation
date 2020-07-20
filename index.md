@@ -1,25 +1,25 @@
 <div style="display: inline-block;">
-    <img width="180" src="https://cloudbudgetinc.github.io/Docs/images/CBigLogo.png" alt="CB2 Logo"/>
+    <img width="180" src="https://cloudbudgetinc.github.io/Documentation/images/CBigLogo.png" alt="CB2 Logo"/>
 </div>
 <div style="display: inline-block;  position: relative; padding-left: 650px ">
-    <img width="100" src="https://cloudbudgetinc.github.io/Docs/images/SFLogo.png" alt="SF Logo"/>
+    <img width="100" src="https://cloudbudgetinc.github.io/Documentation/images/SFLogo.png" alt="SF Logo"/>
 </div>
 
 <div>
     <div style="display: inline-block;">
-        <img width="220" src="https://cloudbudgetinc.github.io/Docs/images/ScreenMassMailHome.png"
+        <img width="220" src="https://cloudbudgetinc.github.io/Documentation/images/ScreenMassMailHome.png"
              alt="CB Home Page"/>
     </div>
     <div style="display: inline-block;">
-        <img width="240" src="https://cloudbudgetinc.github.io/Docs/images/ScreenMassMailBA.png"
+        <img width="240" src="https://cloudbudgetinc.github.io/Documentation/images/ScreenMassMailBA.png"
              alt="CB Budget App"/>
     </div>
     <div style="display: inline-block;">
-        <img width="220" src="https://cloudbudgetinc.github.io/Docs/images/ScreenMassMailImport.png"
+        <img width="220" src="https://cloudbudgetinc.github.io/Documentation/images/ScreenMassMailImport.png"
              alt="CB Import"/>
     </div>
     <div style="display: inline-block;">
-        <img width="240" src="https://cloudbudgetinc.github.io/Docs/images/ScreenMassMailReport.png"
+        <img width="240" src="https://cloudbudgetinc.github.io/Documentation/images/ScreenMassMailReport.png"
              alt="CB Report"/>
     </div>
 </div>
@@ -61,9 +61,9 @@
 
 <div style="text-align: center; margin: auto; background-color: #d8edff; border-radius: 5px; width: 250px; padding: 10px; box-shadow: 2px 2px 8px #777777;"
      title="Documentation">
-    <a href="https://cloudbudgetinc.github.io/Docs/CBCore"
+    <a href="https://cloudbudgetinc.github.io/Documentation/CBCore"
        class="apexButton">Read</a>
-    <a href="https://cloudbudgetinc.github.io/Docs/ReleaseNote"
+    <a href="https://cloudbudgetinc.github.io/Documentation/ReleaseNote"
        class="apexButton">Release Note</a>
 </div>
 
@@ -86,7 +86,7 @@
     <p>info@cloudbudget.com</p>
 
     <div>
-        <img width="100" src="https://cloudbudgetinc.github.io/Docs/images/forceLogo.png" alt="ForceLogo"/>
+        <img width="100" src="https://cloudbudgetinc.github.io/Documentation/images/forceLogo.png" alt="ForceLogo"/>
     </div>
 </div>
 
