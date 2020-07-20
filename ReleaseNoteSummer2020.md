@@ -98,8 +98,8 @@
     <h3 id='FFIntegration'>FF Integration</h3>
     <ul>
         <li>Mapping analytics</li>
-        <li>Import Report</li>
-        <li>Validation and minor improvements</li>
+        <li>Imported CBReportingBalance Report</li>
+        <li>Validations and minor improvements</li>
     </ul>
     <img src="images/RNFFInt2020R1.png" alt="CB Reports" class="inline"/>
     <img src="images/RNFFInt2020R2.png" alt="CB Reports" class="inline"/>
