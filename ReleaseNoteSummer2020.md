@@ -74,6 +74,35 @@
     <img src="images/NRCBal1.png" alt="Budget App Sheet" class="inline"/>
     <br/><br/><br/>
 
+    <h3 id='CBReports'>CB Reports</h3>
+    <ul>
+        <li>New optimized report engine</li>
+        <li>Report export to Excel & PDF</li>
+        <li>Reports are structured by folders</li>
+        <li>Report values depend on the user's currency</li>
+    </ul>
+    <img src="images/NR2020Report1.png" alt="CB Reports" class="inline"/>
+    <img src="images/NR2020Report2.png" alt="CB Reports" class="inline"/>
+    <br/><br/><br/>
+
+    <h3 id='reportConfigurator'>CB Report Configurator</h3>
+    <ul>
+        <li>New convenient and clear layout</li>
+        <li>Quick or improved report display</li>
+        <li>Column generator</li>
+        <li>Validation and minor improvements</li>
+    </ul>
+    <img src="images/RN2020ReportConfig1.png" alt="CB Reports" class="inline"/>
+    <br/><br/><br/>
+
+    <h3 id='FFIntegration'>FF Integration</h3>
+    <ul>
+        <li>Mapping analytics</li>
+        <li>Import Report</li>
+        <li>Validation and minor improvements</li>
+    </ul>
+    <br/><br/><br/>
+
     <h3 id='other'>Other</h3>
     <ul>
         <li>Org customization and transfer using an Excel file</li>
