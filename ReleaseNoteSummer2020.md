@@ -29,11 +29,11 @@
     <br/>
     <h3 id='budgetApp'>Budget App</h3>
     <ul>
-        <li>Autocomplete panel allows to enter a value more conveniently</li>
-        <li>Excel import recognizes cell formulas</li>
-        <li>Advanced capabilities of Calculation rules</li>
-        <li>Currency component allows to work with Budget App using the user's currency</li>
-        <li>Budget App has both modes: Employee/Rate & Price/Quantity</li>
+        <li>Autocomplete panel allows to quickly capture values through the year</li>
+        <li>Budget import from Excel captures now formula results</li>
+        <li>Advanced capabilities of Calculation Rules (scenarios included, general enhancements)</li>
+        <li>Currency component allows to plan and capture actuals in local currencies</li>
+        <li>Budget lines modes added: Employee/Rate & Price/Quantity are now there in addition to just amounts</li>
     </ul>
     <img src="images/NRS2020BA.png" alt="Budget App Autofill" class="inline"/>
     <br/><br/><br/>
@@ -42,30 +42,31 @@
     <h3 id='budgetAppSheet'>Budget App Sheet</h3>
     <ul>
         <li>Grouping by Accounts, SubAccounts, client analytics with and without Budget Apps</li>
+        <li>Additional comprehensive Budget view added</li>
         <li>New Excel export format (each Budget App on its own sheet)</li>
     </ul>
     <img src="images/NRS2020BA2.png" alt="Budget App Sheet" class="inline"/>
     <br/><br/><br/>
 
-    <h3 id='googleDrive'>Google Drive</h3>
+    <h3 id='googleDrive'>Google Drive Integration</h3>
     <ul>
+        <li>Each user is able to connect using different Google Drive accounts</li>
         <li>Connecting with Google Drive using Named Credentials</li>
         <li>Export/import of Budgets to/from Google Drive without using Excel</li>
         <li>Uploading, downloading and deleting files to/from connected Google Drive</li>
-        <li>Each user have ability to connect different Google Drive account</li>
     </ul>
     <br/><br/><br/>
 
     <h3 id='postingRules'>Posting Rules</h3>
     <ul>
-        <li>Cash Flow mode with customizable delay</li>
+        <li>Forecasted Cash Flow postings templates</li>
         <li>Ability to post/unpost selected rules</li>
         <li>Calculation Rules integrated</li>
-        <li>Hints, validations and miscellaneous tools to facilitate customization</li>
+        <li>Hints, validations and tools to simplify setup</li>
     </ul>
     <br/><br/><br/>
 
-    <h3 id='CBalances'>CBalances</h3>
+    <h3 id='CBalances'>CBalances (summaries data records used for reporting)</h3>
     <ul>
         <li>Advanced capabilities for customizing fields</li>
         <li>Ability to run batches of selected CBalance Rules</li>
@@ -79,7 +80,7 @@
         <li>New optimized report engine</li>
         <li>Report export to Excel & PDF</li>
         <li>Reports are structured by folders</li>
-        <li>Report values depend on the user's currency</li>
+        <li>Report values may depend on the user's local currency values</li>
     </ul>
     <img src="images/NR2020Report1.png" alt="CB Reports" class="inline"/>
     <img src="images/RN2020Report2.png" alt="CB Reports" class="inline"/>
@@ -88,7 +89,7 @@
     <h3 id='reportConfigurator'>CB Report Configurator</h3>
     <ul>
         <li>New convenient and clear layout</li>
-        <li>Quick or improved report display</li>
+        <li>"Quick" mode for Reports</li>
         <li>Column generator</li>
         <li>Validation and minor improvements</li>
     </ul>
@@ -98,7 +99,7 @@
     <h3 id='FFIntegration'>FF Integration</h3>
     <ul>
         <li>Mapping analytics</li>
-        <li>Imported CBReportingBalance Report</li>
+        <li>Import status report</li>
         <li>Validations and minor improvements</li>
     </ul>
     <img src="images/RNFFInt2020R1.png" alt="CB Reports" class="inline"/>
@@ -114,10 +115,8 @@
     </ul>
     <br/><br/><br/>
 
-
 </div>
 <br/>
-
 
 <br/>
 <hr/>
