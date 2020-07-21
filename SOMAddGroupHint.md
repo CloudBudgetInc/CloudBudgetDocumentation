@@ -6,16 +6,19 @@
     <title>SOM Add Group Guide</title>
 </head>
 
-<h1 id='pageTop'>SOM Add Group Guide</h1>
+<h2 id='pageTop'>SOM Add Group Guide</h2>
+<hr/>
+<br/>
+<br/>
+
 <div>
     <p>To add a new group do the following:</p>
-
+    <br/>
     <ul>
         <li> Go to the CloudBudget home page and click the “Groups” link in the “List of Data Links” panel  <a href="http://prntscr.com/tm0vi9">http://prntscr.com/tm0vi9</a></li>
         <li> Click “Add new”   <a href="http://prntscr.com/tm0vse">http://prntscr.com/tm0vse</a></li>
         <li>Fill all of the fields, in the “Vision Code” field enter the respective code from the old number scheme, then click “Save” <a href="http://prntscr.com/tm0wtn">http://prntscr.com/tm0wtn</a></li>
     </ul>
-
 </div>
 <br/>
 
