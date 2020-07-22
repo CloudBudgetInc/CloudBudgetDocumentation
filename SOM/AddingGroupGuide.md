@@ -3,10 +3,10 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>SOM Add Group Guide</title>
+    <title>Adding Group Guide</title>
 </head>
 
-<h2 id='pageTop'>SOM Add Group Guide</h2>
+<h2 id='pageTop'>Adding Group Guide</h2>
 <hr/>
 <br/>
 <br/>
