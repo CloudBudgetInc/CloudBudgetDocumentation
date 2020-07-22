@@ -17,15 +17,15 @@
 
     <ul>
         <li>Add the user to the respective public group:
-            <a target="_blank" href="http://prntscr.com/t90x9u">http://prntscr.com/t90x9u</a>
-            <a target="_blank" href="http://prntscr.com/t90y5c">http://prntscr.com/t90y5c</a></li>
+            <p></p><a target="_blank" href="http://prntscr.com/t90x9u">http://prntscr.com/t90x9u</a></p>
+            <p><a target="_blank" href="http://prntscr.com/t90y5c">http://prntscr.com/t90y5c</a></p></li>
         <li> Add the respective permission set to user:
-            <a target="_blank" href="http://prntscr.com/t90z0r">http://prntscr.com/t90z0r</a>
-            <a target="_blank" href="http://prntscr.com/t90z7g">http://prntscr.com/t90z7g</a>
-            <a target="_blank" href="http://prntscr.com/t90zka">http://prntscr.com/t90zka</a></li>
+            <p><a target="_blank" href="http://prntscr.com/t90z0r">http://prntscr.com/t90z0r</a></p>
+            <p><a target="_blank" href="http://prntscr.com/t90z7g">http://prntscr.com/t90z7g</a></p>
+            <p><a target="_blank" href="http://prntscr.com/t90zka">http://prntscr.com/t90zka</a></p></li>
         <li> Add CloudBudget license:
-            <a target="_blank" href="http://prntscr.com/t910av">http://prntscr.com/t910av</a>
-            <a target="_blank" href="http://prntscr.com/t910vi">http://prntscr.com/t910vi</a></li>
+            <p><a target="_blank" href="http://prntscr.com/t910av">http://prntscr.com/t910av</a></p>
+            <p><a target="_blank" href="http://prntscr.com/t910vi">http://prntscr.com/t910vi</a></p></li>
     </ul>
 </div>
 <br/>
