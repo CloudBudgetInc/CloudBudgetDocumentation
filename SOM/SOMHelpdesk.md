@@ -12,7 +12,7 @@
 <br/>
 
 <div>
-    <p>A list of guide links for COM users</p>
+    <p>A list of guide links for SOM users</p>
     <br/>
     <ul>
         <li><p><a href="https://cloudbudgetinc.github.io/Documentation/SOM/AddingGroupGuide">Adding Group Guide</a></p></li>
