@@ -15,9 +15,9 @@
     <p>A list of guide links for COM users</p>
     <br/>
     <ul>
-        <p><a href="https://cloudbudgetinc.github.io/Documentation/SOM/AddingGroupGuide">Adding Group Guide</a></p>
-        <p><a href="https://cloudbudgetinc.github.io/Documentation/SOM/AddingUserGuide">Adding User Guide</a></p>
-        <p><a href="https://cloudbudgetinc.github.io/Documentation/SOM/GoogleDriveSetup">Google Drive Setup</a></p>
+        <li><p><a href="https://cloudbudgetinc.github.io/Documentation/SOM/AddingGroupGuide">Adding Group Guide</a></p></li>
+        <li><p><a href="https://cloudbudgetinc.github.io/Documentation/SOM/AddingUserGuide">Adding User Guide</a></p></li>
+        <li><p><a href="https://cloudbudgetinc.github.io/Documentation/GoogleDriveSetup">Google Drive Setup</a></p></li>
     </ul>
 </div>
 <br/>
