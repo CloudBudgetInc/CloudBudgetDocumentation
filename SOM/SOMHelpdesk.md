@@ -3,30 +3,26 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Adding Group Guide</title>
+    <title>SOM Helpdesk</title>
 </head>
 
-<h2 id='pageTop'>Adding Group Guide</h2>
+<h2 id='pageTop'>SOM Helpdesk</h2>
 <hr/>
 <br/>
 <br/>
 
 <div>
-    <p>To add a new group do the following:</p>
+    <p>A list of guide links for COM users</p>
     <br/>
     <ul>
-        <li>On the SF Home page go to the CloudBudget home page and click the “Groups” link in the “List of Data Links” panel  <a target="_blank"  href="http://prntscr.com/tm0vi9">http://prntscr.com/tm0vi9</a></li>
-        <li>Click “Add new”   <a target="_blank"  href="http://prntscr.com/tm0vse">http://prntscr.com/tm0vse</a></li>
-        <li>Fill all of the fields, in the “Vision Code” field enter the respective code from the old number scheme, then click “Save” <a target="_blank" href="http://prntscr.com/tm0wtn">http://prntscr.com/tm0wtn</a></li>
+        <p><a href="https://cloudbudgetinc.github.io/Docs/SOM/AddingGroupGuide">Adding Group Guide</a></p>
+        <p><a href="https://cloudbudgetinc.github.io/Docs/SOM/GoogleDriveSetup">Google Drive Setup</a></p>
     </ul>
 </div>
 <br/>
 
 <br/>
 <hr/>
-
-    Navigate to:
-    <p><a href="https://cloudbudgetinc.github.io/Docs/SOM/SOMHelpdesk">SOM Helpdesk</a></p>
 
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
