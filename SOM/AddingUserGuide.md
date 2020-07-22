@@ -17,7 +17,7 @@
 
     <ul>
         <li>Add the user to the respective public group:
-            <p></p><a target="_blank" href="http://prntscr.com/t90x9u">http://prntscr.com/t90x9u</a></p>
+            <p><a target="_blank" href="http://prntscr.com/t90x9u">http://prntscr.com/t90x9u</a></p>
             <p><a target="_blank" href="http://prntscr.com/t90y5c">http://prntscr.com/t90y5c</a></p></li>
         <li> Add the respective permission set to user:
             <p><a target="_blank" href="http://prntscr.com/t90z0r">http://prntscr.com/t90z0r</a></p>
