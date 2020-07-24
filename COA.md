@@ -6,6 +6,7 @@
         .exNAme {
             color: red;
             font-weight: bold;
+
         }
 
         ​
