@@ -8,180 +8,26 @@
 
 <h1 id='pageTop'>Initial Setup</h1>
 <div>
-    <p>Yuo may need to perform Initial Setup before your org will go live </p>
+    <p>You may need to perform Initial Setup before your org will go live </p>
 
     <ul>
         <li><a href="InitialSetup.html#init">Installation</a></li>
         <li><a href="InitialSetup.html#populating">Populating</a></li>
     </ul>
 
+    <br/>
+    <br/>
 
-    <table style='border-collapse:collapse;table-layout:fixed;width:1029pt'>
-        <tr style='height:15.75pt'>
-            <td width=37 style='height:15.75pt;width:28pt'>Step</td>
-            <td width=192 style='width:144pt'>Title</td>
-            <td width=602 style='width:452pt'>Actions</td>
-            <td width=169 style='width:127pt'>Screenshots</td>
-            <td width=370 style='width:278pt'>How To Document</td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>&nbsp;</td>
-            <td>GENERAL SETUP</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>1</td>
-            <td>CB Instalation</td>
-            <td>Make sure that the CloudBudget2 Base package is on your
-                instance (Setup -&gt; Installed Packages)
-            </td>
-            <td><a href="http://prntscr.com/pl28bv" target="_parent"><span
-                    style='color:blue'>http://prntscr.com/pl28bv</span></a></td>
-            <td></td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>2</td>
-            <td>Home page setup</td>
-            <td>Setup -&gt; Lightning App Builder View
-                &quot;Navigation&quot;<br>
-                Activation button, asign App &quot;Navigation&quot; to CloudBu<span
-                        style='display:none'>dget2<br>
-    Next <br>
-    Save</span></td>
-            <td><a href="http://prntscr.com/pl2a0d" target="_parent"><span
-                    style='color:blue'>http://prntscr.com/pl2a0d</span></a></td>
-            <td></td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>3</td>
-            <td>Initialization</td>
-            <td>Home -&gt; Other -&gt; Init Wizard<br>
-                Do all the steps. If template is not needed - stop at Posting Rules
-            </td>
-            <td colspan=2 style='mso-ignore:colspan'>http://prntscr.com/pl2b8p<br>
-                https://prnt.sc/qr82rl
-            </td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>4</td>
-            <td>BY and Periods</td>
-            <td>Create another BY (if needed)<br>
-                Home -&gt; Main Configurator -&gt; Periods Configuration
-            </td>
-            <td><a href="http://prntscr.com/pm8ek2" target="_parent"><span
-                    style='color:blue'>http://prntscr.com/pm8ek2</span></a></td>
-            <td></td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>5</td>
-            <td>Create additional dimensions</td>
-            <td>Create analytical metrics of the client (&quot;Project&quot;
-                and &quot;Grant&quot; in the current example)<br>
-                Main Configurator -<span style='display:none'>&gt; CB Dimension -&gt;
-  Create New<br>
-    To display the dimension on the Home page enable &quot;Display on
-  Home&quot;<br>
-    Setup dimension fields/lookups<br>
-    Save</span></td>
-            <td><a href="http://prntscr.com/qxad1p" target="_parent"><span
-                    style='color:blue'>http://prntscr.com/qxad1p</span></a></td>
-            <td><a href="https://cloudbudgetinc.github.io/Docs/Dimension"
-                   target="_parent"><span
-                    style='color:blue'>https://fallentol.github.io/CloudBudget/CB2/Dimension</span></a>
-            </td>
-        </tr>
-        <tr style='height:31.5pt;mso-xlrowspan:2'>
-            <td height=42 colspan=5 style='height:31.5pt;mso-ignore:colspan'></td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>&nbsp;</td>
-            <td>INITIAL DATA POPULATING</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>1</td>
-            <td>COA</td>
-            <td>Go to Home -&gt; Accounts. Create Account Subtypes</td>
-            <td colspan=2 style='mso-ignore:colspan'></td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>2</td>
-            <td>COA</td>
-            <td>Add needed list of accounts or load them using SF Data Import
-                Wizard
-            </td>
-            <td>http://prntscr.com/qxt9xp<br>
-                ht<span style='display:none'>tp://prntscr.com/qxtbi3<br>
-    http://prntscr.com/qxtc6t</span></td>
-            <td><a
-                    href="https://cloudbudgetinc.github.io/Docs/COA#import" target="_parent"><span
-                    style='color:blue'>https://fallentol.github.io/CloudBudget/CB2/COA#import</span></a></td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>3</td>
-            <td>Dimensions</td>
-            <td>Fill in a list of organization dimensions/analytics</td>
-            <td colspan=2 style='mso-ignore:colspan'></td>
-        </tr>
-        <tr style='height:31.5pt;mso-xlrowspan:2'>
-            <td height=42 colspan=5 style='height:31.5pt;mso-ignore:colspan'></td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>&nbsp;</td>
-            <td>BUDGET APP SETUP</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>1</td>
-            <td>Budget App Template</td>
-            <td>Go to Main Configurator -&gt; CB Dimensions -&gt; Budget App
-                Template dimension <br>
-                and setup custom org <span style='display:none'>analytics<span
-                        style='mso-spacerun:yes'> </span></span></td>
-            <td colspan=2 style='mso-ignore:colspan'>http://prntscr.com/qxak35<br>
-                http://prntscr.com/qxayhb
-            </td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>2</td>
-            <td>Budget App Amounts</td>
-            <td>Setup the same analytics to the &quot;Budget App Amount&quot;
-                dimension (the same way)
-            </td>
-            <td colspan=2 style='mso-ignore:colspan'></td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>3</td>
-            <td>Calculation Rules</td>
-            <td colspan=3 style='mso-ignore:colspan'></td>
-        </tr>
-        <tr style='height:315.0pt;mso-xlrowspan:20'>
-            <td colspan=5 style='height:315.0pt;mso-ignore:colspan'></td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'>&nbsp;</td>
-            <td>NEW CUSTOM USER</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr style='height:15.75pt'>
-            <td style='height:15.75pt'></td>
-            <td>Add new User</td>
-            <td>Add Permission Set named
-                &quot;CloudBudget2PermissionsSet&quot; to simple User
-            </td>
-            <td><a href="http://prntscr.com/pwass3" target="_parent"><span
-                    style='color:blue'>http://prntscr.com/pwass3</span></a></td>
-            <td></td>
-        </tr>
-    </table>
+    <p>To configure base data download a file depends on you company type</p>
+    <ul>
+        <li><a href="https://cloudbudgetinc.github.io/Documentation/files/FF-like%20Org%20Data.xlsx">General
+            Organization</a></li>
+        <li><a href="https://cloudbudgetinc.github.io/Documentation/files/FF-like%20Org%20Data.xlsx">FF-like
+            Organization</a></li>
+        <li><a href="https://cloudbudgetinc.github.io/Documentation/files/FF-like%20Org%20Data.xlsx">Payroll
+            Budgeting</a></li>
+    </ul>
+
 
 </div>
 <br/>
@@ -191,8 +37,7 @@
 <hr/>
 <div>
     Navigate to:
-    <p><a href="https://cloudbudgetinc.github.io/Docs/CBCore">CB Base Documentation</a></p>
-    <p><a href="https://cloudbudgetinc.github.io/Docs/BudgetTemplate">Budget App Template</a></p>
+    <p><a href="https://cloudbudgetinc.github.io/Docsuments/CBCore">CB Base Documentation</a></p>
 </div>
 
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
