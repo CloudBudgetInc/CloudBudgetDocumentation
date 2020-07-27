@@ -8,15 +8,6 @@
 
 <h1 id='pageTop'>Initial Setup</h1>
 <div>
-    <p>You may need to perform Initial Setup before your org will go live </p>
-
-    <ul>
-        <li><a href="InitialSetup.html#init">Installation</a></li>
-        <li><a href="InitialSetup.html#populating">Populating</a></li>
-    </ul>
-
-    <br/>
-    <br/>
 
     <p>To configure base data download a file depends on you company type</p>
     <ul>
@@ -26,6 +17,17 @@
             Organization</a></li>
         <li><a href="https://cloudbudgetinc.github.io/Documentation/files/FF-like%20Org%20Data.xlsx">Payroll
             Budgeting</a></li>
+    </ul>
+
+    <br/>
+    <br/>
+
+    <p>You may need to perform Initial Setup before your org will go live </p>
+    <p>Instructions for the initial setup of CloudBudget2.0 are presented below</p>
+
+    <ul>
+        <li><a href="InitialSetup.html#init">Installation</a></li>
+        <li><a href="InitialSetup.html#populating">Populating</a></li>
     </ul>
 
 
