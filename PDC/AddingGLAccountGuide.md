@@ -6,7 +6,7 @@
 <body>
 
 <div>
-    <h2 id='pageTop'>SOM Add Group Guide</h2>
+    <h2 id='pageTop'>PDC Add GL Account Guide</h2>
     <hr/>
     <br/>
     <br/>
