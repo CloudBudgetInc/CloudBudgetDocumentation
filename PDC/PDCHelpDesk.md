@@ -15,7 +15,8 @@
     <p>A list of guide links for PDC users</p>
     <br/>
     <ul>
-        <li><p><a href="https://cloudbudgetinc.github.io/Documentation/PDC/AddingGLAccountGuide">Adding GL Accounts Guide</a></p></li>
+        <li><p><a href="https://cloudbudgetinc.github.io/Documentation/PDC/AddingGLAccountGuide">Updating GL Accounts Guide</a></p></li>
+        <li><p><a href="https://cloudbudgetinc.github.io/Documentation/PDC/AddingFFDimensionsGuide">Updating FF Dimensions Guide</a></p></li>
         <li><p><a href="https://cloudbudgetinc.github.io/Documentation/GoogleDriveSetup">Google Drive Setup</a></p></li>
     </ul>
 </div>
