@@ -28,12 +28,9 @@
 <p>CloudBudget 2.0 is a newly released native force.com Lightning application with a flexible, user-friendly interface
     in addition to many other enhancements.
 <p>
-
-
 <p> Imagine having all budget data in one place, no more formula errors, a built-in approvals workflow, one-page fully
     tailored budget forms, customized reports, and dashboards where actual and planned data appear side by side.
 <p>
-
 
 <div style="padding-top: 10px; padding-bottom: 15px;">
     Click the link below to visit our listing on the Salesforce AppExchange:
