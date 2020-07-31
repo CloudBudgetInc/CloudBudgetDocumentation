@@ -11,7 +11,7 @@
 
     <p>To configure base data download a file depends on you company type</p>
     <ul>
-        <li><a href="https://cloudbudgetinc.github.io/Documentation/files/FF-like%20Org%20Data.xlsx">General
+        <li><a href="https://cloudbudgetinc.github.io/Documentation/files/General%20Org%20Data.xlsx">General
             Organization</a></li>
         <li><a href="https://cloudbudgetinc.github.io/Documentation/files/FF-like%20Org%20Data.xlsx">FF-like
             Organization</a></li>
