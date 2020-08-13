@@ -16,7 +16,6 @@
                 General Organization
             </a>
         </li>
-        </li>
         <li>
             <a href="https://cloudbudgetinc.github.io/Documentation/files/FinancialForce%20Integrated%20Environment.xlsx">
                 FinancialForce Integrated Environment
