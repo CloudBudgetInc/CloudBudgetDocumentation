@@ -6,7 +6,7 @@
     <title>The Mustard Seeds</title>
 </head>
 
-<h1 id='pageTop'>The Mustard Seeds</h1>
+<h2 id='pageTop'>The Mustard Seeds</h2>
 <div>
     <fieldset>
         <legend>Апликушки</legend>
@@ -24,12 +24,16 @@
         </p>
     </fieldset>
 
+    <br/>
+
     <fieldset>
-        <legend>Линия плана</legend>
+        <legend>Линия факта</legend>
         <p>
             Факт получаем из ФФ интеграции FFRB => CBRB => CB Entries => Reports
         </p>
     </fieldset>
+
+    <br/>
 
     <fieldset>
         <legend>Отчетная часть</legend>
@@ -46,6 +50,8 @@
         </p>
     </fieldset>
 
+    <br/>
+
     <fieldset>
         <legend>Другое</legend>
         <p>
@@ -55,6 +61,8 @@
             Нужен модуль для анализа мапинга - дубирования/пропуски
         </p>
     </fieldset>
+
+    <br/>
 
 
 </div>
@@ -107,8 +115,23 @@
         background-color: #181818;
     }
 
+
     fieldset {
-        padding-bottom: 15px;
+        font-family: sans-serif;
+        border: 5px solid #1F497D;
+        background: #ddd;
+        border-radius: 5px;
+        padding: 15px;
+    }
+
+    fieldset legend {
+        background: #1F497D;
+        color: #fff;
+        padding: 5px 10px ;
+        font-size: 32px;
+        border-radius: 5px;
+        box-shadow: 0 0 0 5px #ddd;
+        margin-left: 20px;
     }
 </style>
 
