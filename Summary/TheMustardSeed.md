@@ -95,6 +95,12 @@
 </script>
 
 <style>
+
+    #pageTop {
+        text-align: center;
+        font-weight: bold;
+    }
+
     #myBtn {
         display: none;
         position: fixed;
@@ -127,7 +133,7 @@
     fieldset legend {
         background: #1F497D;
         color: #fff;
-        padding: 5px 10px ;
+        padding: 5px 10px;
         font-size: 32px;
         border-radius: 5px;
         box-shadow: 0 0 0 5px #ddd;
