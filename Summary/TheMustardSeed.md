@@ -128,16 +128,18 @@
         background: #ddd;
         border-radius: 5px;
         padding: 15px;
+        color: #505050;
+        box-shadow: 8px -8px 17px 0px rgba(0,0,0,0.75);
     }
 
     fieldset legend {
         background: #1F497D;
         color: #fff;
         padding: 5px 10px;
-        font-size: 32px;
+        font-size: 16px;
         border-radius: 5px;
-        box-shadow: 0 0 0 5px #ddd;
         margin-left: 20px;
+        box-shadow: 8px -8px 17px 0px rgba(0,0,0,0.75);
     }
 </style>
 
