@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Budget App</title>
+    <title>Budget App </title>
 </head>
 
 <h1 id='pageTop'>Budget App</h1>
