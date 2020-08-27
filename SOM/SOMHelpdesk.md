@@ -18,6 +18,7 @@
         <li><p><a href="https://cloudbudgetinc.github.io/Documentation/SOM/AddingGroupGuide">Adding Group Guide</a></p></li>
         <li><p><a href="https://cloudbudgetinc.github.io/Documentation/SOM/AddingUserGuide">Adding User Guide</a></p></li>
         <li><p><a href="https://cloudbudgetinc.github.io/Documentation/GoogleDriveSetup">Google Drive Setup</a></p></li>
+        <li><p><a href="https://cloudbudgetinc.github.io/Documentation/AddDimToBALine">Adding New Analytics Guide</a></p></li>
     </ul>
 </div>
 <br/>
